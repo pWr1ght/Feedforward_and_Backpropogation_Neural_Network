@@ -1,5 +1,5 @@
 This is a Neural network utilizing many different classes. 
-This Neural network uses these library:
+This Neural network uses these libraries:
 - Matplotlib 
 - Mlxtend
 - Numpy
