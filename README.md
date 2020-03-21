@@ -16,7 +16,7 @@ What can this thing do:
 - Gives the abilities to set the amount of nodes, layers, and learning rate per layer.
 - Allows the user to traverse through the layers once the graph has been.
 
-Here is also a diagram of the class structures of the neural network indicated below:
+Here is a diagram of the class structures of the neural network indicated below:
 Note: Arrows indicate the inheritance.
 
 <img width="694" alt="Screen Shot 2020-03-21 at 3 23 38 PM" src="https://user-images.githubusercontent.com/44282168/77237813-92276100-6b88-11ea-87df-e75cdfd74272.png">
