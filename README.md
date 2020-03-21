@@ -1,4 +1,4 @@
-This is a feedforward/backpropogation Neural network utilizing many different classes without the use of pre-made machine learning platforms. (i.e. tensorflow, pytorch) 
+This is a feedforward/backpropogation neural network utilizing many different classes without the use of pre-made machine learning frameworks. (i.e. tensorflow, pytorch) 
 This Neural network uses these libraries:
 - Matplotlib 
 - Mlxtend
