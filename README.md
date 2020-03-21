@@ -8,13 +8,13 @@ If the code is cloned or used, a suggestion would be to use the pycharm IDE. It 
 
 What can this thing do:
 
--Interactive simple terminal menu with plenty of options.
--Provides three simple datasets which are iris, Sin, XOR.
--Creates a scatterplot for training and testing Sin dataset.
--Creates a confusion matrix for testing Iris dataset.
--Allows user to test/train data
--Gives the abilities to set the amount of nodes, layers, and learning rate per layer.
--Allows the user to traverse through the layers once the graph has been.
+- Interactive simple terminal menu with plenty of options.
+- Provides three simple datasets which are iris, Sin, XOR.
+- Creates a scatterplot for training and testing Sin dataset.
+- Creates a confusion matrix for testing Iris dataset.
+- Allows user to test/train data
+- Gives the abilities to set the amount of nodes, layers, and learning rate per layer.
+- Allows the user to traverse through the layers once the graph has been.
 
 Here is also a diagram of the class structures of the neural network indicated below:
 Note: Arrows indicate the inheritance.
