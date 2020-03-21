@@ -18,6 +18,7 @@ What can this thing do:
 
 Here is also a diagram of the class structures of the neural network indicated below:
 Note: Arrows indicate the inheritance.
+
 <img width="694" alt="Screen Shot 2020-03-21 at 3 23 38 PM" src="https://user-images.githubusercontent.com/44282168/77237813-92276100-6b88-11ea-87df-e75cdfd74272.png">
 
 
