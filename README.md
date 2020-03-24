@@ -26,6 +26,7 @@ Here is an example of the training 50% of the sin dataset put at 10001 epochs, 1
 
 
 0 epochs
+
 <img width="499" alt="Screen Shot 2020-03-24 at 9 24 05 AM" src="https://user-images.githubusercontent.com/44282168/77451363-cb8ee500-6db1-11ea-9298-5fe6f17b6404.png">
 
 
