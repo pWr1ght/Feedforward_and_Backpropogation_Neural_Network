@@ -22,3 +22,14 @@ Note: Arrows indicate the inheritance.
 <img width="694" alt="Screen Shot 2020-03-21 at 3 23 38 PM" src="https://user-images.githubusercontent.com/44282168/77237813-92276100-6b88-11ea-87df-e75cdfd74272.png">
 
 
+Here is an example of the training 50% of the sin dataset put at 10000 epochs, 1 hidden layer (learning rate .05) with three nodes.
+0 epochs
+<img width="488" alt="Screen Shot 2020-03-23 at 9 16 38 PM" src="https://user-images.githubusercontent.com/44282168/77387924-f7777f80-6d4b-11ea-89a2-b581a012d350.png">
+
+
+10000 epochs
+<img width="513" alt="Screen Shot 2020-03-23 at 9 14 35 PM" src="https://user-images.githubusercontent.com/44282168/77387940-03634180-6d4c-11ea-85af-8de18997650a.png">
+
+Testing the Network with the rest of the dataset.
+
+
