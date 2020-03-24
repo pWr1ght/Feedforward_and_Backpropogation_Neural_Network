@@ -50,3 +50,11 @@ Testing the Network with the rest of the dataset. (other 50%)
 The testing RSME is 0.02944
 
 
+Now testing with the Iris dataset with the same amount of nodes, layers, amount trained, and learning rate.
+
+Confusion matrix of the rest of the data being tested.
+
+<img width="499" alt="Screen Shot 2020-03-24 at 9 49 25 AM" src="https://user-images.githubusercontent.com/44282168/77453957-2a099280-6db5-11ea-856b-8c9e286931c4.png">
+
+This confusion matrix can be quite misleading for verifying predictions becuase there were some instances that had low prediction scores for each classification. So I decided to make it so the highest classification score within the instance was going to chosen as the predicted label. 
+
