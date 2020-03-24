@@ -58,5 +58,5 @@ Confusion matrix of the rest of the data being tested.
 
 The testing RSME is 0.2819
 
-This confusion matrix can be quite misleading for verifying predictions becuase there were some instances that had low prediction scores for each classification. So I decided to make it so the highest classification score within the instance was going to chosen as the predicted label. 
+This confusion matrix can be quite misleading for verifying predictions becuase there were some instances that had low prediction scores for each classification. So I decided to make it so the highest classification score within the instance is going to chosen as the predicted label. 
 
