@@ -22,14 +22,19 @@ Note: Arrows indicate the inheritance.
 <img width="694" alt="Screen Shot 2020-03-21 at 3 23 38 PM" src="https://user-images.githubusercontent.com/44282168/77237813-92276100-6b88-11ea-87df-e75cdfd74272.png">
 
 
-Here is an example of the training 50% of the sin dataset put at 10000 epochs, 1 hidden layer (learning rate .05) with three nodes.
+Here is an example of the training 50% of the sin dataset put at 10001 epochs, 1 hidden layer (learning rate .05) with three nodes.
 0 epochs
-<img width="488" alt="Screen Shot 2020-03-23 at 9 16 38 PM" src="https://user-images.githubusercontent.com/44282168/77387924-f7777f80-6d4b-11ea-89a2-b581a012d350.png">
+<img width="499" alt="Screen Shot 2020-03-24 at 9 24 05 AM" src="https://user-images.githubusercontent.com/44282168/77451363-cb8ee500-6db1-11ea-9298-5fe6f17b6404.png">
 
+10001 epochs
+<img width="497" alt="Screen Shot 2020-03-24 at 9 27 02 AM" src="https://user-images.githubusercontent.com/44282168/77451385-d21d5c80-6db1-11ea-941e-c16dc0139d3f.png">
 
-10000 epochs
-<img width="513" alt="Screen Shot 2020-03-23 at 9 14 35 PM" src="https://user-images.githubusercontent.com/44282168/77387940-03634180-6d4c-11ea-85af-8de18997650a.png">
+The training RSME is 0.02530.
 
-Testing the Network with the rest of the dataset.
+Testing the Network with the rest of the dataset. (other 50%)
+
+<img width="498" alt="Screen Shot 2020-03-24 at 9 27 33 AM" src="https://user-images.githubusercontent.com/44282168/77451399-d8abd400-6db1-11ea-874c-5b5724078a0d.png">
+
+The testing RSME is 0.02944
 
 
